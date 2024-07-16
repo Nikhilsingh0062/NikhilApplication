@@ -65,6 +65,7 @@ package Sample;
 	            C[i].openAccount();  
 	        }  
 	        // loop runs until number 5 is not pressed to exit  
+	        //xjjd
 	        int ch;  
 	        do {  
 	            System.out.println("\n ***Banking System Application***");  
