@@ -124,7 +124,9 @@ package Sample;
 	                        }  
 	                        break;  
 	                    case 5:  
-	                        System.out.println("See you soon... ASAP");  
+	                        System.out.println("See you soon... ASAP"); 
+	                        System.out.println("How do you like our work?"
+	                        		+ "rate us on our website ");
 	                        break;  
 	                }  
 	            }  
