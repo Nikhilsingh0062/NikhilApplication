@@ -35,6 +35,7 @@ public class BankingApp{
 		int num6=sc.nextInt();
 		System.out.println(num5*num6);
 		break;
+		
 		case 4:System.out.println("you are in division block");
 		System.out.println("enter the numerator");
 		int num7=sc.nextInt();
